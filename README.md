@@ -1,5 +1,8 @@
 ![welcome image](img/welcome.jpg)
 
+<!-- Visitor badge is done with visiorbadge.io -->
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmucahitkayadan%2Fmucahitkayadan&label=visitors&labelColor=%23f47373&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmucahitkayadan%2Fmucahitkayadan)
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - **Career Goals:** My overarching career goal is to make meaningful contributions to the field, leveraging my skills to solve complex problems and create impactful solutions.  
 
