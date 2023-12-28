@@ -16,7 +16,8 @@
 - Obsessed with chickens, and I am working on eggs, co-author of the "High accuracy gender determination using the egg shape index" paper.  
 
 
-- For me, engineering is all about perspective and traveling is such a "builder" for it.  
+- For me, engineering is all about perspective and traveling is such a "builder" for it.      
+
 
 - A language enthusiast.  
 ![Duolingo Streak](https://img.shields.io/badge/My_Current_Duolingo_Streak-944-brightgreen)
