@@ -20,7 +20,7 @@
 
 
 - A language enthusiast.  
-![Duolingo Streak](https://img.shields.io/badge/My_Current_Duolingo_Streak-944-brightgreen)
+![Duolingo Streak](https://img.shields.io/badge/My_Current_Duolingo_Streak-945-brightgreen)
 
 
 ## Contact
