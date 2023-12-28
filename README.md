@@ -1,6 +1,6 @@
 ![welcome image](img/welcome.jpg)
 
-<!-- Visitor badge is done with visiorbadge.io -->
+<!-- Visitor badge is done with visitorbadge.io -->
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmucahitkayadan%2Fmucahitkayadan&label=visitors&labelColor=%23f47373&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmucahitkayadan%2Fmucahitkayadan)
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
@@ -10,13 +10,16 @@
 - **Career Summary:** A passionate Software Engineer with over 2 years of experience implementing highly scalable robust industrial computer vision applications using machine learning algorithms. Proficient in algorithm development, research & development processes, and finding suitable solutions for complex industrial needs. Hands-on using Python, Matlab, C++ OpenCV, and Deep Learning libraries.  
 
 
-- **Core Competences:** Object Oriented Programming, Deep Learning, Computer Vision, Image Processing, Machine Learning, Signal Processing, Algorithm Design, Problem Solving  
+- **Core Competences:** Object-Oriented Programming, Deep Learning, Computer Vision, Image Processing, Machine Learning, Signal Processing, Algorithm Design, Problem-Solving  
 
 
-- Obsessed with chickens and I am working on eggs, co-author of the "High accuracy gender determination using the egg shape index" paper.  
+- Obsessed with chickens, and I am working on eggs, co-author of the "High accuracy gender determination using the egg shape index" paper.  
 
 
 - For me, engineering is all about perspective and traveling is such a "builder" for it.  
+
+- A language enthusiast.  
+![Duolingo Streak](https://img.shields.io/badge/My_Current_Duolingo_Streak-944-brightgreen)
 
 
 ## Contact
