@@ -33,5 +33,3 @@ jobs:
           git add README.md
           git commit -m "Update README with new counter value"
           git push
-        with:
-          branch: main
