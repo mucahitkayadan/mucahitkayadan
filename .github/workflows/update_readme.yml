@@ -24,7 +24,7 @@ jobs:
           pip install -r ${{github.workspace}}/requirements.txt
 
       - name: Run update script
-        run: python ${{github.workspace}}/duolingo_streak_updater.py
+        run: python ${{github.workspace}}/duolingo_streak_updater.py --debug
 
       - name: Commit and push changes
         run: |
