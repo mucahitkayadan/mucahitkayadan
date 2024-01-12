@@ -20,7 +20,7 @@
 
 <!-- This badge is updated from duolingo_streak_updater.py and Github actions. -->
 - A language enthusiast. I have lived in 7 countries, been to more than 30 countries.   
-![Duolingo Streak](https://img.shields.io/badge/My_Current_Duolingo_Streak-959-brightgreen)
+![Duolingo Streak](https://img.shields.io/badge/My_Current_Duolingo_Streak-960-brightgreen)
 
 
 ## Contact
