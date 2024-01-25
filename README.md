@@ -1,4 +1,4 @@
-![welcome image](img/welcome.jpg)
+![welcome image](img/welcome.png)
 
 <!-- Visitor badge is done with visitorbadge.io -->
 
@@ -18,7 +18,7 @@
 
 - For me, engineering is all about perspective and traveling is such a "builder" for it.      
 
-<!-- This badge is updated from duolingo_streak_updater.py and Github actions. -->
+<!-- This badge is updated from duolingo_streak_updater.py and GitHub actions. -->
 - A language enthusiast. I have lived in 7 countries, been to more than 30 countries.   
 ![Duolingo Streak](https://img.shields.io/badge/My_Current_Duolingo_Streak-973-brightgreen)
 
