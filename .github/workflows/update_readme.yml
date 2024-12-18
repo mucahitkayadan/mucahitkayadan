@@ -28,7 +28,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.email "muhammetkayadan@hotmail.com"
+          git config --global user.email "mujakayadan@outlook.com"
           git config --global user.name "mucahitkayadan"
           git add README.md
           git commit -m "Update README with new counter value"
