@@ -55,6 +55,8 @@
 
 ## 🚀 About Me
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=I'm+a+Machine+Learning+Engineer;I'm+a+Computer+Vision+Engineer;I'm+an+Electrical+Electronics+Engineer;I'm+a+Software+Engineer;I'm+a+Machine+Vision+Engineer)](https://git.io/typing-svg)
+
 > "Engineering is all about perspective, and traveling is such a builder for it."
 
 I'm a Machine Learning Engineer with a passion for solving complex problems through AI and computer vision. With over 3 years of experience, I specialize in designing and implementing machine learning models for real-world applications.
