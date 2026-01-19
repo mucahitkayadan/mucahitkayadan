@@ -8,50 +8,6 @@
 
 </div>
 
-## 🛠️ Skills & Technologies
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### 🤖 Computer Vision
-- Object Detection & Tracking
-- Feature Extraction & Stereo Vision
-- Pose Estimation & SLAM
-- HyperSpectral Imaging & NeRF
-- Gaussian Splatting & Real-Time Video Analysis
-- Vision Language Models (VLMs)
-- Semantic & Instance Segmentation
-- 3D Reconstruction & Depth Estimation
-- Face Recognition & Action Recognition
-- Visual Question Answering
-
-### 🧠 Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-- Deep Learning (CNN, GAN, LSTM, Transformers)
-- Transfer Learning & Self-Supervised Learning
-- MLOps & TinyML
-- Reinforcement Learning
-- AutoML & Google Cloud AutoML
-
-### 🛠️ Frameworks & Tools
-- Deep Learning: TensorFlow, PyTorch, Keras
-- Data Science: Scikit-Learn, NumPy, Pandas
-- Visualization: Matplotlib, Seaborn, Plotly
-- Development: Git, Docker, FastAPI, Flask
-- Cloud: AWS, Google Colab
-- Databases: MongoDB, Elasticsearch, SQLite
-
-### 📊 Data Engineering
-- Data Pipeline Development
-- Feature Engineering
-- Big Data Processing
-- MLOps Implementation
-- Data Preprocessing & Cleaning
 
 ## 🚀 About Me
 
