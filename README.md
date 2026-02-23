@@ -15,7 +15,7 @@
 
 > "Engineering is all about perspective, and traveling is such a builder for it."
 
-I'm a Machine Learning Engineer with a passion for solving complex problems through AI and computer vision. With over 3 years of experience, I specialize in designing and implementing machine learning models for real-world applications.
+I'm a Machine Learning Engineer with a passion for solving complex problems through AI and computer vision. With over 4 years of experience, I specialize in designing and implementing machine learning models for real-world applications.
 
 - 🔭 Currently working as a **Machine Learning Engineer**
 - 🌱 Focusing on **RAG Systems**, **LLMs**, and **Computer Vision**
