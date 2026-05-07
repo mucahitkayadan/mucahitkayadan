@@ -20,7 +20,7 @@ I'm a Machine Learning Engineer with a passion for solving complex problems thro
 - 🔭 Currently working as a **Machine Learning Engineer**
 - 🌱 Focusing on **RAG Systems**, **LLMs**, and **Computer Vision**
 - 🌍 Lived in **7 countries**, visited **30+** nations
-- 📚 Language enthusiast with a ![Duolingo Streak](https://img.shields.io/badge/My_Current_Duolingo_Streak-1786-brightgreen) day streak!
+- 📚 Language enthusiast with a ![Duolingo Streak](https://img.shields.io/badge/My_Current_Duolingo_Streak-1787-brightgreen) day streak!
 - 🥚 Co-author of the paper ["High accuracy gender determination using the egg shape index"](https://www.nature.com/articles/) in Nature - Scientific Reports
 
 ### 🗺️ Travel & Living Map
