@@ -1,10 +1,10 @@
 ![welcome image](img/welcome.png)
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mucahitkayadan&show_icons=true&theme=radical)](https://github.com/mucahitkayadan)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mujakayadan&show_icons=true&theme=radical)](https://github.com/mujakayadan)
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmucahitkayadan%2Fmucahitkayadan&label=visitors&labelColor=%23f47373&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmucahitkayadan%2Fmucahitkayadan)
-[![GitHub followers](https://img.shields.io/github/followers/mucahitkayadan?label=Follow&style=social)](https://github.com/mucahitkayadan)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmujakayadan%2Fmujakayadan&label=visitors&labelColor=%23f47373&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmujakayadan%2Fmujakayadan)
+[![GitHub followers](https://img.shields.io/github/followers/mujakayadan?label=Follow&style=social)](https://github.com/mujakayadan)
 
 </div>
 
